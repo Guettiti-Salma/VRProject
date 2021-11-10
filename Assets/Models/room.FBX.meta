@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: 540fd5a9fd7d7fa49ad04ed3fee11234
+timeCreated: 1458173876
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: back
+    100002: bad
+    100004: bad_for
+    100006: chair
+    100008: Doors
+    100010: FLOOR
+    100012: glass
+    100014: glass2
+    100016: rest
+    100018: //RootNode
+    100020: table
+    100022: veshalka
+    100024: wall_staff
+    100026: walls
+    100028: win_anim
+    100030: win_still
+    400000: back
+    400002: bad
+    400004: bad_for
+    400006: chair
+    400008: Doors
+    400010: FLOOR
+    400012: glass
+    400014: glass2
+    400016: rest
+    400018: //RootNode
+    400020: table
+    400022: veshalka
+    400024: wall_staff
+    400026: walls
+    400028: win_anim
+    400030: win_still
+    2300000: back
+    2300002: bad
+    2300004: bad_for
+    2300006: chair
+    2300008: Doors
+    2300010: FLOOR
+    2300012: glass
+    2300014: glass2
+    2300016: rest
+    2300018: table
+    2300020: veshalka
+    2300022: wall_staff
+    2300024: walls
+    2300026: win_anim
+    2300028: win_still
+    3300000: back
+    3300002: bad
+    3300004: bad_for
+    3300006: chair
+    3300008: Doors
+    3300010: FLOOR
+    3300012: glass
+    3300014: glass2
+    3300016: rest
+    3300018: table
+    3300020: veshalka
+    3300022: wall_staff
+    3300024: walls
+    3300026: win_anim
+    3300028: win_still
+    4300000: table
+    4300002: glass2
+    4300004: glass
+    4300006: win_still
+    4300008: win_anim
+    4300010: walls
+    4300012: chair
+    4300014: wall_staff
+    4300016: rest
+    4300018: bad
+    4300020: bad_for
+    4300022: back
+    4300024: Doors
+    4300026: veshalka
+    4300028: FLOOR
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
